@@ -31,6 +31,7 @@
         <a href="#" class="icons-sm sh-ic"><i class="fa fa-share-alt"></i><b>424</b>
             <span class="share_ic">Shares</span>
         </a>
+        
         <a href="#" class="icons-sm fb-ic"><i class="fa fa-facebook"></i></a>
         <!--Twitter-->
         <a href="#" class="icons-sm tw-ic"><i class="fa fa-twitter"></i></a>

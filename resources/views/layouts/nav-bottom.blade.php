@@ -9,6 +9,7 @@
                                         <p>Andrii Hazhur</p>
                                         <p>Kyiv, near NAU</p>
                                         <p>+38 063 025 2017</p>
+                                       
                                 </div>
                                 </div>
                                     <!-- .container -->
