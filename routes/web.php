@@ -12,6 +12,6 @@
 */
 
 Route::get('/', 'ArticleController@index');
-
+//test new computer
 
 Route::get('article', 'ArticleController@getArticle');
